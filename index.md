@@ -14,8 +14,8 @@ It is critical to ensure you have the capacity to store your collected data and 
 
 Relevant resources:
 
-Data Storage Platforms
-Data Backup
+[Data Storage Platforms](data-storage-platforms.md)
+[Data Backup](data-backup.md)
 Risk Assessment
 
 Data Sharing
