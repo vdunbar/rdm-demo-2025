@@ -21,7 +21,7 @@ If you required ethics, ensure any modifications are also approved.
 * Enact your back up plan
 * Establish a review method to ensure directory structure, file naming, etc conventions are being adhered to
 
-For guidance on implementation, visit [organization](oragnization.md).
+For guidance on implementation, visit [organization](organization.md).
 
 ## DOCUMENTATION
 
